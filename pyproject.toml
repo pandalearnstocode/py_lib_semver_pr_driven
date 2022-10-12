@@ -5,7 +5,7 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
 name = "py_lib_semver_pr_driven"
-version = "0.2.0"
+version = "0.2.1"
 description = "Awesome `py_lib_semver_pr_driven` is a Python cli/package created with https://github.com/TezRomacH/python-package-template"
 readme = "README.md"
 authors = ["pandalearnstocode <pandalearnstocode@gmail.com>"]
