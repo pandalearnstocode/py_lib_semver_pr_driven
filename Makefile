@@ -7,6 +7,10 @@ PYTHONPATH := `pwd`
 IMAGE := py_lib_semver_pr_driven
 VERSION := latest
 
+.PHONY: release
+release:
+	poetry run semantic_release publish --minor
+
 #* Poetry
 .PHONY: poetry-download
 poetry-download:
