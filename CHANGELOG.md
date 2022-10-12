@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.2.0 (2022-10-12)
+### Feature
+* **ui:** Validate gh ci cd 2 ([#16](https://github.com/pandalearnstocode/py_lib_semver_pr_driven/issues/16)) ([`49e3352`](https://github.com/pandalearnstocode/py_lib_semver_pr_driven/commit/49e33521a3988e9115ceb8e15308a86be5e2a405))
+
 ## v0.1.0 (2022-10-12)
 ### Feature
 * **ui:** Validate gh ci cd ([#15](https://github.com/pandalearnstocode/py_lib_semver_pr_driven/issues/15)) ([`8e67753`](https://github.com/pandalearnstocode/py_lib_semver_pr_driven/commit/8e67753e01b2a658d655b10dea9f13972e2506a1))
